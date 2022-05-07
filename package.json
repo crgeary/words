@@ -1,0 +1,21 @@
+{
+  "name": "words",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "build:static": "next build && next out",
+    "check-ts": "tsc --noEmit --project tsconfig.json"
+  },
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "@types/react": "^18.0.9",
+    "@types/react-dom": "^18.0.3",
+    "typescript": "^4.6.4"
+  }
+}
