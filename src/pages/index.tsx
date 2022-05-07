@@ -1,7 +1,7 @@
 import { Game } from "../components/game/game.component";
 
 const IndexPage = () => {
-  return <Game />;
+    return <Game />;
 };
 
 export default IndexPage;
