@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should match snapshot 1`] = `
+<div
+  class="grid grid-cols-5 gap-1"
+>
+  <span
+    class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+  >
+    <span
+      class="uppercase"
+    >
+      h
+    </span>
+  </span>
+  <span
+    class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+  >
+    <span
+      class="uppercase"
+    >
+      e
+    </span>
+  </span>
+  <span
+    class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+  >
+    <span
+      class="uppercase"
+    >
+      l
+    </span>
+  </span>
+  <span
+    class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+  >
+    <span
+      class="uppercase"
+    >
+      l
+    </span>
+  </span>
+  <span
+    class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+  >
+    <span
+      class="uppercase"
+    >
+      o
+    </span>
+  </span>
+</div>
+`;
