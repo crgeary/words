@@ -1,0 +1,163 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should match snapshot 1`] = `
+<div
+  class="grid gap-1"
+>
+  <div
+    class="grid grid-cols-5 gap-1"
+  >
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-green-600 text-white"
+    >
+      <span
+        class="uppercase"
+      >
+        h
+      </span>
+    </span>
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-green-600 text-white"
+    >
+      <span
+        class="uppercase"
+      >
+        e
+      </span>
+    </span>
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-600 text-white"
+    >
+      <span
+        class="uppercase"
+      >
+        l
+      </span>
+    </span>
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-600 text-white"
+    >
+      <span
+        class="uppercase"
+      >
+        l
+      </span>
+    </span>
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-yellow-600 text-white"
+    >
+      <span
+        class="uppercase"
+      >
+        o
+      </span>
+    </span>
+  </div>
+  <div
+    class="grid grid-cols-5 gap-1"
+  >
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-600 text-white"
+    >
+      <span
+        class="uppercase"
+      >
+        w
+      </span>
+    </span>
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-yellow-600 text-white"
+    >
+      <span
+        class="uppercase"
+      >
+        o
+      </span>
+    </span>
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-green-600 text-white"
+    >
+      <span
+        class="uppercase"
+      >
+        r
+      </span>
+    </span>
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-600 text-white"
+    >
+      <span
+        class="uppercase"
+      >
+        l
+      </span>
+    </span>
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-600 text-white"
+    >
+      <span
+        class="uppercase"
+      >
+        d
+      </span>
+    </span>
+  </div>
+  <div
+    class="grid grid-cols-5 gap-1"
+  >
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+  </div>
+  <div
+    class="grid grid-cols-5 gap-1"
+  >
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+  </div>
+  <div
+    class="grid grid-cols-5 gap-1"
+  >
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+  </div>
+</div>
+`;
