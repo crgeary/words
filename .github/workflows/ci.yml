@@ -23,4 +23,4 @@ jobs:
       - run: npm run check-format
       - run: npm run check-ts
       - run: npm run lint
-      - run: num run test
+      - run: npm run test
