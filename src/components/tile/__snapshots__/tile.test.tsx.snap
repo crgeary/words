@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should match snapshot 1`] = `
+<span
+  class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+>
+  <span
+    class="uppercase"
+  >
+    A
+  </span>
+</span>
+`;
