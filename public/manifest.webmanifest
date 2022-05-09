@@ -6,5 +6,26 @@
     "start_url": "/",
     "background_color": "#111827",
     "theme_color": "#5b21b6",
-    "icons": []
+    "icons": [
+        {
+            "src": "images/icon-light@32w.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "images/icon-light@64w.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "images/icon-light@256w.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "images/icon-light@512w.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }

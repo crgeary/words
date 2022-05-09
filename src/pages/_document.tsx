@@ -6,6 +6,7 @@ class MyDocument extends Document {
             <Html>
                 <Head>
                     <link rel="manifest" href="/manifest.webmanifest" />
+                    <link rel="icon" type="image/svg+xml" href="/images/icon.svg" />
                 </Head>
                 <body>
                     <Main />

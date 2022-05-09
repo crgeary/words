@@ -1,0 +1,12 @@
+<svg viewBox="0 0 576 576" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+    .cell--idle { fill: #0F172A }
+    @media (prefers-color-scheme: dark) {
+        .cell--idle { fill: #F1F5F9 }
+    }
+    </style>
+    <rect x="22" y="298" width="256" height="256" rx="80" fill="#F59E0B"/>
+    <rect x="298" y="298" width="256" height="256" rx="80" class="cell cell--idle" />
+    <rect x="22" y="22" width="256" height="256" rx="80" class="cell cell--idle" />
+    <rect x="298" y="22" width="256" height="256" rx="80" fill="#16A34A"/>
+</svg>
