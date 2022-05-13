@@ -21,7 +21,7 @@ export const Board: FC<BoardProps> = ({ solution, rows, guesses, currentGuess })
         length: rows,
     });
     return (
-        <div className="h-full grid gap-1">
+        <div className="h-full grid auto-rows-fr gap-1">
             {board.map((letters, i) => (
                 <Row key={i} letters={letters} />
             ))}
