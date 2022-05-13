@@ -20,10 +20,10 @@ export const Keyboard: FC<KeyboardProps> = ({ solution, guesses, onChar, onEnter
     const layout = [`qwertyuiop`.split(""), `asdfghjkl`.split(""), `zxcvbnm`.split("")];
 
     useEffect(() => {
-        const handler = ({ key, code }: KeyboardEvent) => {
-            if (code === KeyCodes.Enter) {
+        const handler = ({ key }: KeyboardEvent) => {
+            if (key === KeyCodes.Enter) {
                 onEnter();
-            } else if (code === KeyCodes.Backspace) {
+            } else if (key === KeyCodes.Backspace) {
                 onDelete();
             } else {
                 if (key.length === 1 && key.toLowerCase() >= "a" && key.toUpperCase() <= "z") {
@@ -47,6 +47,7 @@ export const Keyboard: FC<KeyboardProps> = ({ solution, guesses, onChar, onEnter
                             state={states[key]}
                             className="flex-auto"
                             onClick={() => onChar(key)}
+                            data-testid={`key-${key}`}
                         >
                             {key}
                         </Key>
@@ -54,10 +55,10 @@ export const Keyboard: FC<KeyboardProps> = ({ solution, guesses, onChar, onEnter
                 </div>
             ))}
             <div className="flex gap-1">
-                <Key className="flex-auto" onClick={() => onEnter()}>
+                <Key className="flex-auto" onClick={() => onEnter()} data-testid="key-enter">
                     Enter
                 </Key>
-                <Key className="flex-auto" onClick={() => onDelete()}>
+                <Key className="flex-auto" onClick={() => onDelete()} data-testid="key-delete">
                     Delete
                 </Key>
             </div>

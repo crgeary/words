@@ -24,6 +24,7 @@
         "@swc/core": "^1.2.179",
         "@swc/jest": "^0.2.21",
         "@testing-library/react": "^13.2.0",
+        "@testing-library/user-event": "^14.2.0",
         "@types/jest": "^27.5.0",
         "@types/lodash": "^4.14.182",
         "@types/node": "^17.0.31",
