@@ -46,7 +46,10 @@ export const Keyboard: FC<KeyboardProps> = ({ solution, guesses, onChar, onEnter
                             key={key}
                             state={states[key]}
                             className="flex-auto"
-                            onClick={() => onChar(key)}
+                            onClick={() => {
+                                window?.navigator?.vibrate?.(50);
+                                onChar(key);
+                            }}
                             data-testid={`key-${key}`}
                         >
                             {key}
@@ -55,10 +58,24 @@ export const Keyboard: FC<KeyboardProps> = ({ solution, guesses, onChar, onEnter
                 </div>
             ))}
             <div className="flex gap-1">
-                <Key className="flex-auto" onClick={() => onEnter()} data-testid="key-enter">
+                <Key
+                    className="flex-auto"
+                    onClick={() => {
+                        window?.navigator?.vibrate?.(50);
+                        onEnter();
+                    }}
+                    data-testid="key-enter"
+                >
                     Enter
                 </Key>
-                <Key className="flex-auto" onClick={() => onDelete()} data-testid="key-delete">
+                <Key
+                    className="flex-auto"
+                    onClick={() => {
+                        window?.navigator?.vibrate?.(50);
+                        onDelete();
+                    }}
+                    data-testid="key-delete"
+                >
                     Delete
                 </Key>
             </div>
