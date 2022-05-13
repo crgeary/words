@@ -1,0 +1,414 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should match snapshot 1`] = `
+<div>
+  <div
+    class="p-3 uppercase text-center bg-slate-100"
+  >
+    idle
+  </div>
+  <div
+    class="my-2"
+  >
+    <div
+      class="grid gap-1"
+    >
+      <div
+        class="grid grid-cols-5 gap-1"
+      >
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+      </div>
+      <div
+        class="grid grid-cols-5 gap-1"
+      >
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+      </div>
+      <div
+        class="grid grid-cols-5 gap-1"
+      >
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+      </div>
+      <div
+        class="grid grid-cols-5 gap-1"
+      >
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+      </div>
+      <div
+        class="grid grid-cols-5 gap-1"
+      >
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="flex flex-col gap-1"
+  >
+    <div
+      class="flex gap-1"
+    >
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-q"
+      >
+        <span
+          class="uppercase"
+        >
+          q
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-w"
+      >
+        <span
+          class="uppercase"
+        >
+          w
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-e"
+      >
+        <span
+          class="uppercase"
+        >
+          e
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-r"
+      >
+        <span
+          class="uppercase"
+        >
+          r
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-t"
+      >
+        <span
+          class="uppercase"
+        >
+          t
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-y"
+      >
+        <span
+          class="uppercase"
+        >
+          y
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-u"
+      >
+        <span
+          class="uppercase"
+        >
+          u
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-i"
+      >
+        <span
+          class="uppercase"
+        >
+          i
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-o"
+      >
+        <span
+          class="uppercase"
+        >
+          o
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-p"
+      >
+        <span
+          class="uppercase"
+        >
+          p
+        </span>
+      </button>
+    </div>
+    <div
+      class="flex gap-1"
+    >
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-a"
+      >
+        <span
+          class="uppercase"
+        >
+          a
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-s"
+      >
+        <span
+          class="uppercase"
+        >
+          s
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-d"
+      >
+        <span
+          class="uppercase"
+        >
+          d
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-f"
+      >
+        <span
+          class="uppercase"
+        >
+          f
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-g"
+      >
+        <span
+          class="uppercase"
+        >
+          g
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-h"
+      >
+        <span
+          class="uppercase"
+        >
+          h
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-j"
+      >
+        <span
+          class="uppercase"
+        >
+          j
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-k"
+      >
+        <span
+          class="uppercase"
+        >
+          k
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-l"
+      >
+        <span
+          class="uppercase"
+        >
+          l
+        </span>
+      </button>
+    </div>
+    <div
+      class="flex gap-1"
+    >
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-z"
+      >
+        <span
+          class="uppercase"
+        >
+          z
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-x"
+      >
+        <span
+          class="uppercase"
+        >
+          x
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-c"
+      >
+        <span
+          class="uppercase"
+        >
+          c
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-v"
+      >
+        <span
+          class="uppercase"
+        >
+          v
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-b"
+      >
+        <span
+          class="uppercase"
+        >
+          b
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-n"
+      >
+        <span
+          class="uppercase"
+        >
+          n
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-m"
+      >
+        <span
+          class="uppercase"
+        >
+          m
+        </span>
+      </button>
+    </div>
+    <div
+      class="flex gap-1"
+    >
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-enter"
+      >
+        <span
+          class="uppercase"
+        >
+          Enter
+        </span>
+      </button>
+      <button
+        class="p-2 flex-auto bg-slate-600 text-white"
+        data-testid="key-delete"
+      >
+        <span
+          class="uppercase"
+        >
+          Delete
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
