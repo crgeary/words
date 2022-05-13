@@ -8,7 +8,7 @@ exports[`it should match snapshot 1`] = `
     class="flex gap-1"
   >
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-q"
     >
       <span
@@ -18,7 +18,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-400 text-slate-300"
+      class="p-2 rounded flex-auto bg-slate-400 text-slate-300"
       data-testid="key-w"
     >
       <span
@@ -28,7 +28,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-green-600 text-white"
+      class="p-2 rounded flex-auto bg-green-600 text-white"
       data-testid="key-e"
     >
       <span
@@ -38,7 +38,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-green-600 text-white"
+      class="p-2 rounded flex-auto bg-green-600 text-white"
       data-testid="key-r"
     >
       <span
@@ -48,7 +48,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-t"
     >
       <span
@@ -58,7 +58,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-y"
     >
       <span
@@ -68,7 +68,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-u"
     >
       <span
@@ -78,7 +78,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-i"
     >
       <span
@@ -88,7 +88,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-yellow-600 text-white"
+      class="p-2 rounded flex-auto bg-yellow-600 text-white"
       data-testid="key-o"
     >
       <span
@@ -98,7 +98,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-p"
     >
       <span
@@ -112,7 +112,7 @@ exports[`it should match snapshot 1`] = `
     class="flex gap-1"
   >
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-a"
     >
       <span
@@ -122,7 +122,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-s"
     >
       <span
@@ -132,7 +132,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-400 text-slate-300"
+      class="p-2 rounded flex-auto bg-slate-400 text-slate-300"
       data-testid="key-d"
     >
       <span
@@ -142,7 +142,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-f"
     >
       <span
@@ -152,7 +152,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-g"
     >
       <span
@@ -162,7 +162,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-green-600 text-white"
+      class="p-2 rounded flex-auto bg-green-600 text-white"
       data-testid="key-h"
     >
       <span
@@ -172,7 +172,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-j"
     >
       <span
@@ -182,7 +182,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-k"
     >
       <span
@@ -192,7 +192,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-400 text-slate-300"
+      class="p-2 rounded flex-auto bg-slate-400 text-slate-300"
       data-testid="key-l"
     >
       <span
@@ -206,7 +206,7 @@ exports[`it should match snapshot 1`] = `
     class="flex gap-1"
   >
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-z"
     >
       <span
@@ -216,7 +216,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-x"
     >
       <span
@@ -226,7 +226,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-c"
     >
       <span
@@ -236,7 +236,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-v"
     >
       <span
@@ -246,7 +246,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-b"
     >
       <span
@@ -256,7 +256,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-n"
     >
       <span
@@ -266,7 +266,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-m"
     >
       <span
@@ -280,7 +280,7 @@ exports[`it should match snapshot 1`] = `
     class="flex gap-1"
   >
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-enter"
     >
       <span
@@ -290,7 +290,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 flex-auto bg-slate-600 text-white"
+      class="p-2 rounded flex-auto bg-slate-600 text-white"
       data-testid="key-delete"
     >
       <span

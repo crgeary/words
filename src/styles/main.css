@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.h-main-full {
+    height: calc(100vh - 3.5rem);
+}

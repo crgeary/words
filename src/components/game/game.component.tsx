@@ -1,5 +1,6 @@
 import classNames from "classnames";
 import { FC, useEffect, useState } from "react";
+
 import { VALID_WORD_LENGTH } from "../../constants";
 import { useNumber } from "../../hooks/use-number";
 import { GameState } from "../../types/game-state";
@@ -42,7 +43,7 @@ export const Game: FC<GameProps> = ({ solution }) => {
     }, [guesses, rowCount.value, solution]);
 
     return (
-        <div>
+        <div className="h-full flex flex-col py-4">
             <div
                 className={classNames("p-3 uppercase text-center", {
                     "bg-slate-100": [GameState.Idle, GameState.Playing].includes(status),
@@ -63,7 +64,7 @@ export const Game: FC<GameProps> = ({ solution }) => {
                     </button>
                 )}
             </div>
-            <div className="my-2">
+            <div className="flex-grow py-2">
                 <Board
                     rows={rowCount.value}
                     solution={solution}
@@ -71,19 +72,21 @@ export const Game: FC<GameProps> = ({ solution }) => {
                     currentGuess={currentGuess}
                 />
             </div>
-            <Keyboard
-                solution={solution}
-                guesses={guesses}
-                onChar={(char) => {
-                    if (currentGuess.length < VALID_WORD_LENGTH) {
-                        setCurrentGuess((guess) => `${guess}${char}`);
-                    }
-                }}
-                onEnter={() => addGuess()}
-                onDelete={() => {
-                    setCurrentGuess((guess) => guess.substring(0, guess.length - 1));
-                }}
-            />
+            <div className="flex-grow-0">
+                <Keyboard
+                    solution={solution}
+                    guesses={guesses}
+                    onChar={(char) => {
+                        if (currentGuess.length < VALID_WORD_LENGTH) {
+                            setCurrentGuess((guess) => `${guess}${char}`);
+                        }
+                    }}
+                    onEnter={() => addGuess()}
+                    onDelete={() => {
+                        setCurrentGuess((guess) => guess.substring(0, guess.length - 1));
+                    }}
+                />
+            </div>
         </div>
     );
 };

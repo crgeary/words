@@ -1,4 +1,5 @@
 import { render } from "@testing-library/react";
+
 import { Row } from "./row.component";
 
 test("it should match snapshot", () => {

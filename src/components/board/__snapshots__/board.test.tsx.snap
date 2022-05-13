@@ -2,13 +2,13 @@
 
 exports[`it should match snapshot 1`] = `
 <div
-  class="grid gap-1"
+  class="h-full grid gap-1"
 >
   <div
     class="grid grid-cols-5 gap-1"
   >
     <span
-      class="inline-block w-full h-full p-2 text-center bg-green-600 text-white"
+      class="inline-block rounded w-full h-full p-2 text-center bg-green-600 text-white"
     >
       <span
         class="uppercase"
@@ -17,7 +17,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-block w-full h-full p-2 text-center bg-green-600 text-white"
+      class="inline-block rounded w-full h-full p-2 text-center bg-green-600 text-white"
     >
       <span
         class="uppercase"
@@ -26,7 +26,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-600 text-white"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-600 text-white"
     >
       <span
         class="uppercase"
@@ -35,7 +35,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-600 text-white"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-600 text-white"
     >
       <span
         class="uppercase"
@@ -44,7 +44,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-block w-full h-full p-2 text-center bg-yellow-600 text-white"
+      class="inline-block rounded w-full h-full p-2 text-center bg-yellow-600 text-white"
     >
       <span
         class="uppercase"
@@ -57,7 +57,7 @@ exports[`it should match snapshot 1`] = `
     class="grid grid-cols-5 gap-1"
   >
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-600 text-white"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-600 text-white"
     >
       <span
         class="uppercase"
@@ -66,7 +66,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-block w-full h-full p-2 text-center bg-yellow-600 text-white"
+      class="inline-block rounded w-full h-full p-2 text-center bg-yellow-600 text-white"
     >
       <span
         class="uppercase"
@@ -75,7 +75,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-block w-full h-full p-2 text-center bg-green-600 text-white"
+      class="inline-block rounded w-full h-full p-2 text-center bg-green-600 text-white"
     >
       <span
         class="uppercase"
@@ -84,7 +84,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-600 text-white"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-600 text-white"
     >
       <span
         class="uppercase"
@@ -93,7 +93,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-600 text-white"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-600 text-white"
     >
       <span
         class="uppercase"
@@ -106,57 +106,57 @@ exports[`it should match snapshot 1`] = `
     class="grid grid-cols-5 gap-1"
   >
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-    />
-  </div>
-  <div
-    class="grid grid-cols-5 gap-1"
-  >
-    <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-    />
-    <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-    />
-    <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-    />
-    <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-    />
-    <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
     />
   </div>
   <div
     class="grid grid-cols-5 gap-1"
   >
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+  </div>
+  <div
+    class="grid grid-cols-5 gap-1"
+  >
+    <span
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
     />
   </div>
 </div>

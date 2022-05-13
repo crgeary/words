@@ -1,6 +1,6 @@
 import { FC } from "react";
-import { VALID_WORD_LENGTH } from "../../constants";
 
+import { VALID_WORD_LENGTH } from "../../constants";
 import { Tile, TileProps } from "../tile/tile.component";
 
 export type RowProps = {

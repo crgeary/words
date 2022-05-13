@@ -1,5 +1,6 @@
-import { useNumber } from "./use-number";
 import { act, renderHook } from "@testing-library/react";
+
+import { useNumber } from "./use-number";
 
 test("it should default to zero, defaultValue or minumum", () => {
     const hook1 = renderHook(() => useNumber({}));

@@ -5,7 +5,7 @@ exports[`it should match snapshot 1`] = `
   class="grid grid-cols-5 gap-1"
 >
   <span
-    class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
   >
     <span
       class="uppercase"
@@ -14,7 +14,7 @@ exports[`it should match snapshot 1`] = `
     </span>
   </span>
   <span
-    class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
   >
     <span
       class="uppercase"
@@ -23,7 +23,7 @@ exports[`it should match snapshot 1`] = `
     </span>
   </span>
   <span
-    class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
   >
     <span
       class="uppercase"
@@ -32,7 +32,7 @@ exports[`it should match snapshot 1`] = `
     </span>
   </span>
   <span
-    class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
   >
     <span
       class="uppercase"
@@ -41,7 +41,7 @@ exports[`it should match snapshot 1`] = `
     </span>
   </span>
   <span
-    class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+    class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
   >
     <span
       class="uppercase"

@@ -8,7 +8,7 @@ class MyDocument extends Document {
                     <link rel="manifest" href="/manifest.webmanifest" />
                     <link rel="icon" type="image/svg+xml" href="/images/icon.svg" />
                 </Head>
-                <body>
+                <body className="bg-slate-50">
                     <Main />
                     <NextScript />
                 </body>

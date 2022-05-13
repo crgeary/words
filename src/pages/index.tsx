@@ -1,6 +1,9 @@
 import { NextPage } from "next";
 import Head from "next/head";
+
 import { Game } from "../components/game/game.component";
+import { Layout } from "../components/layout/layout.component";
+import { Mode } from "../types/mode";
 import { getRandomWord } from "../utils/get-random-word";
 
 const IndexPage: NextPage = () => {
@@ -10,9 +13,9 @@ const IndexPage: NextPage = () => {
             <Head>
                 <title>Words | Christopher Geary</title>
             </Head>
-            <div className="container mx-auto p-1">
+            <Layout mode={Mode.Random}>
                 <Game solution={solution} />
-            </div>
+            </Layout>
         </>
     );
 };

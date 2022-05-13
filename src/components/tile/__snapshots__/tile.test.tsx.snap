@@ -2,7 +2,7 @@
 
 exports[`it should match snapshot 1`] = `
 <span
-  class="inline-block w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+  class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
 >
   <span
     class="uppercase"
