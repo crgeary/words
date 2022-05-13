@@ -8,46 +8,46 @@ exports[`it should match snapshot 1`] = `
     class="grid grid-cols-5 gap-1"
   >
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-green-600 text-white"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-green-600 text-white"
     >
       <span
-        class="uppercase"
+        class="uppercase font-semibold text-xl"
       >
         h
       </span>
     </span>
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-green-600 text-white"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-green-600 text-white"
     >
       <span
-        class="uppercase"
+        class="uppercase font-semibold text-xl"
       >
         e
       </span>
     </span>
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-600 text-white"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-600 text-white"
     >
       <span
-        class="uppercase"
+        class="uppercase font-semibold text-xl"
       >
         l
       </span>
     </span>
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-600 text-white"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-600 text-white"
     >
       <span
-        class="uppercase"
+        class="uppercase font-semibold text-xl"
       >
         l
       </span>
     </span>
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-yellow-600 text-white"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-yellow-600 text-white"
     >
       <span
-        class="uppercase"
+        class="uppercase font-semibold text-xl"
       >
         o
       </span>
@@ -57,46 +57,46 @@ exports[`it should match snapshot 1`] = `
     class="grid grid-cols-5 gap-1"
   >
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-600 text-white"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-600 text-white"
     >
       <span
-        class="uppercase"
+        class="uppercase font-semibold text-xl"
       >
         w
       </span>
     </span>
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-yellow-600 text-white"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-yellow-600 text-white"
     >
       <span
-        class="uppercase"
+        class="uppercase font-semibold text-xl"
       >
         o
       </span>
     </span>
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-green-600 text-white"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-green-600 text-white"
     >
       <span
-        class="uppercase"
+        class="uppercase font-semibold text-xl"
       >
         r
       </span>
     </span>
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-600 text-white"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-600 text-white"
     >
       <span
-        class="uppercase"
+        class="uppercase font-semibold text-xl"
       >
         l
       </span>
     </span>
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-600 text-white"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-600 text-white"
     >
       <span
-        class="uppercase"
+        class="uppercase font-semibold text-xl"
       >
         d
       </span>
@@ -106,57 +106,57 @@ exports[`it should match snapshot 1`] = `
     class="grid grid-cols-5 gap-1"
   >
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-    />
-  </div>
-  <div
-    class="grid grid-cols-5 gap-1"
-  >
-    <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-    />
-    <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-    />
-    <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-    />
-    <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-    />
-    <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
     />
   </div>
   <div
     class="grid grid-cols-5 gap-1"
   >
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
     />
     <span
-      class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+    />
+  </div>
+  <div
+    class="grid grid-cols-5 gap-1"
+  >
+    <span
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+    />
+    <span
+      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
     />
   </div>
 </div>

@@ -19,95 +19,95 @@ exports[`it should match snapshot 1`] = `
         class="grid grid-cols-5 gap-1"
       >
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-        />
-      </div>
-      <div
-        class="grid grid-cols-5 gap-1"
-      >
-        <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
       </div>
       <div
         class="grid grid-cols-5 gap-1"
       >
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-        />
-      </div>
-      <div
-        class="grid grid-cols-5 gap-1"
-      >
-        <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
       </div>
       <div
         class="grid grid-cols-5 gap-1"
       >
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
         <span
-          class="inline-block rounded w-full h-full p-2 text-center bg-slate-300 text-gray-700"
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+        />
+      </div>
+      <div
+        class="grid grid-cols-5 gap-1"
+      >
+        <span
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+        />
+      </div>
+      <div
+        class="grid grid-cols-5 gap-1"
+      >
+        <span
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+        />
+        <span
+          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
         />
       </div>
     </div>
