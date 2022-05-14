@@ -5,10 +5,10 @@ exports[`it should match snapshot 1`] = `
   class="flex flex-col gap-1"
 >
   <div
-    class="flex gap-1"
+    class="flex justify-center -mx-0.5"
   >
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-q"
     >
       <span
@@ -18,7 +18,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-400 text-slate-300"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-slate-100 border-slate-200 text-slate-300"
       data-testid="key-w"
     >
       <span
@@ -28,7 +28,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-green-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-green-500 border-green-600 text-green-50"
       data-testid="key-e"
     >
       <span
@@ -38,7 +38,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-green-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-green-500 border-green-600 text-green-50"
       data-testid="key-r"
     >
       <span
@@ -48,7 +48,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-t"
     >
       <span
@@ -58,7 +58,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-y"
     >
       <span
@@ -68,7 +68,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-u"
     >
       <span
@@ -78,7 +78,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-i"
     >
       <span
@@ -88,7 +88,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-yellow-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-yellow-500 border-yellow-600 text-yellow-9000"
       data-testid="key-o"
     >
       <span
@@ -98,7 +98,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-p"
     >
       <span
@@ -109,10 +109,13 @@ exports[`it should match snapshot 1`] = `
     </button>
   </div>
   <div
-    class="flex gap-1"
+    class="flex justify-center -mx-0.5"
   >
+    <span
+      class="flex-grow-0.5 flex-shrink basis-0"
+    />
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-a"
     >
       <span
@@ -122,7 +125,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-s"
     >
       <span
@@ -132,7 +135,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-400 text-slate-300"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-slate-100 border-slate-200 text-slate-300"
       data-testid="key-d"
     >
       <span
@@ -142,7 +145,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-f"
     >
       <span
@@ -152,7 +155,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-g"
     >
       <span
@@ -162,7 +165,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-green-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-green-500 border-green-600 text-green-50"
       data-testid="key-h"
     >
       <span
@@ -172,7 +175,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-j"
     >
       <span
@@ -182,7 +185,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-k"
     >
       <span
@@ -192,7 +195,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-400 text-slate-300"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-slate-100 border-slate-200 text-slate-300"
       data-testid="key-l"
     >
       <span
@@ -201,12 +204,30 @@ exports[`it should match snapshot 1`] = `
         l
       </span>
     </button>
+    <span
+      class="flex-grow-0.5 flex-shrink basis-0"
+    />
   </div>
   <div
-    class="flex gap-1"
+    class="flex justify-center -mx-0.5"
   >
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow-1.5 flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+      data-testid="key-enter"
+    >
+      <span
+        class="uppercase"
+      >
+        Enter
+        <span
+          class="sr-only"
+        >
+          Enter
+        </span>
+      </span>
+    </button>
+    <button
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-z"
     >
       <span
@@ -216,7 +237,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-x"
     >
       <span
@@ -226,7 +247,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-c"
     >
       <span
@@ -236,7 +257,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-v"
     >
       <span
@@ -246,7 +267,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-b"
     >
       <span
@@ -256,7 +277,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-n"
     >
       <span
@@ -266,7 +287,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </button>
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-m"
     >
       <span
@@ -275,28 +296,33 @@ exports[`it should match snapshot 1`] = `
         m
       </span>
     </button>
-  </div>
-  <div
-    class="flex gap-1"
-  >
     <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
-      data-testid="key-enter"
-    >
-      <span
-        class="uppercase"
-      >
-        Enter
-      </span>
-    </button>
-    <button
-      class="p-2 rounded flex-auto bg-slate-600 text-white"
+      class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow-1.5 flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
       data-testid="key-delete"
     >
       <span
         class="uppercase"
       >
-        Delete
+        <svg
+          aria-hidden="true"
+          class="w-5 h-5"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M12 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2M3 12l6.414 6.414a2 2 0 001.414.586H19a2 2 0 002-2V7a2 2 0 00-2-2h-8.172a2 2 0 00-1.414.586L3 12z"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          />
+        </svg>
+        <span
+          class="sr-only"
+        >
+          Delete
+        </span>
       </span>
     </button>
   </div>

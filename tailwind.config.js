@@ -7,6 +7,11 @@ module.exports = {
             fontFamily: {
                 sans: ["Inter", defaultTheme.fontFamily.sans],
             },
+            flexGrow: {
+                ...defaultTheme.flexGrow,
+                0.5: 0.5,
+                1.5: 1.5,
+            },
         },
     },
     plugins: [],

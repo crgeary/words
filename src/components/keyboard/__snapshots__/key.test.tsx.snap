@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should match snapshot 1`] = `
+<button
+  class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner bg-white border-violet-200 text-slate-600"
+>
+  <span
+    class="uppercase"
+  >
+    A
+  </span>
+</button>
+`;

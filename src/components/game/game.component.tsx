@@ -43,28 +43,8 @@ export const Game: FC<GameProps> = ({ solution }) => {
     }, [guesses, rowCount.value, solution]);
 
     return (
-        <div className="h-full flex flex-col py-4">
-            <div
-                className={classNames("p-3 uppercase text-center", {
-                    "bg-slate-100": [GameState.Idle, GameState.Playing].includes(status),
-                    "bg-red-600": GameState.Fail === status,
-                    "bg-greens-600": GameState.Success === status,
-                })}
-            >
-                {status}
-                {status === GameState.Success && (
-                    <button
-                        className="border p-1"
-                        onClick={() => {
-                            // ..
-                            setGuesses([]);
-                        }}
-                    >
-                        Play Again
-                    </button>
-                )}
-            </div>
-            <div className="flex-grow py-2">
+        <div className="h-full flex flex-col py-4 touch-manipulation">
+            <div className="flex-grow mb-4">
                 <Board
                     rows={rowCount.value}
                     solution={solution}

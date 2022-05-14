@@ -10,7 +10,7 @@ export const Layout: FC<LayoutProps> = ({ mode, children }) => {
     return (
         <>
             <Header mode={mode} />
-            <div role="main" className="h-main-full container mx-auto px-3">
+            <div role="main" className="h-main-full max-w-lg mx-auto px-3">
                 {children}
             </div>
         </>

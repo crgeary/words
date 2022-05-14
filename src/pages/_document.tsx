@@ -9,7 +9,7 @@ class MyDocument extends Document {
                     <link rel="icon" type="image/svg+xml" href="/images/icon.svg" />
                     <link
                         rel="stylesheet"
-                        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
+                        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
                     />
                 </Head>
                 <body className="bg-slate-50 font-sans select-none">
