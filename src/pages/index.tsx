@@ -14,7 +14,7 @@ const IndexPage: NextPage = () => {
                 <title>Words | Christopher Geary</title>
             </Head>
             <Layout mode={Mode.Random}>
-                <Game solution={solution} />
+                <Game mode={Mode.Random} solution={solution} />
             </Layout>
         </>
     );

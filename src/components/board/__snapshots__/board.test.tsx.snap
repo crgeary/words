@@ -8,7 +8,7 @@ exports[`it should match snapshot 1`] = `
     class="grid grid-cols-5 gap-1"
   >
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-green-600 text-white"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-green-500 border-green-600 text-green-50"
     >
       <span
         class="uppercase font-semibold text-xl"
@@ -17,7 +17,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-green-600 text-white"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-green-500 border-green-600 text-green-50"
     >
       <span
         class="uppercase font-semibold text-xl"
@@ -26,7 +26,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-600 text-white"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-slate-500 border-slate-600 text-slate-200"
     >
       <span
         class="uppercase font-semibold text-xl"
@@ -35,7 +35,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-600 text-white"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-slate-500 border-slate-600 text-slate-200"
     >
       <span
         class="uppercase font-semibold text-xl"
@@ -44,7 +44,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-yellow-600 text-white"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-yellow-500 border-yellow-600 text-yellow-900"
     >
       <span
         class="uppercase font-semibold text-xl"
@@ -57,7 +57,7 @@ exports[`it should match snapshot 1`] = `
     class="grid grid-cols-5 gap-1"
   >
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-600 text-white"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-slate-500 border-slate-600 text-slate-200"
     >
       <span
         class="uppercase font-semibold text-xl"
@@ -66,7 +66,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-yellow-600 text-white"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-yellow-500 border-yellow-600 text-yellow-900"
     >
       <span
         class="uppercase font-semibold text-xl"
@@ -75,7 +75,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-green-600 text-white"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-green-500 border-green-600 text-green-50"
     >
       <span
         class="uppercase font-semibold text-xl"
@@ -84,7 +84,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-600 text-white"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-slate-500 border-slate-600 text-slate-200"
     >
       <span
         class="uppercase font-semibold text-xl"
@@ -93,7 +93,7 @@ exports[`it should match snapshot 1`] = `
       </span>
     </span>
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-600 text-white"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-slate-500 border-slate-600 text-slate-200"
     >
       <span
         class="uppercase font-semibold text-xl"
@@ -106,57 +106,57 @@ exports[`it should match snapshot 1`] = `
     class="grid grid-cols-5 gap-1"
   >
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
     />
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
     />
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
     />
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
     />
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-    />
-  </div>
-  <div
-    class="grid grid-cols-5 gap-1"
-  >
-    <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-    />
-    <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-    />
-    <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-    />
-    <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-    />
-    <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
     />
   </div>
   <div
     class="grid grid-cols-5 gap-1"
   >
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
     />
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
     />
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
     />
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
     />
     <span
-      class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+    />
+  </div>
+  <div
+    class="grid grid-cols-5 gap-1"
+  >
+    <span
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+    />
+    <span
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+    />
+    <span
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+    />
+    <span
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+    />
+    <span
+      class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
     />
   </div>
 </div>

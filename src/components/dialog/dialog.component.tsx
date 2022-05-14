@@ -14,14 +14,7 @@ export const Dialog: FC<DialogProps> = ({ icon, heading, children, isOpen = fals
         <HeadlessDialog open={isOpen} onClose={() => onClose()} className="relative z-50">
             <div className="fixed inset-0 bg-black/50" aria-hidden="true" />
             <div className="fixed inset-0 flex items-center justify-center p-6">
-                <HeadlessDialog.Panel className="relative mx-auto w-full max-w-lg rounded bg-white px-5 pt-12 pb-5 text-slate-600">
-                    {heading && (
-                        <HeadlessDialog.Title className="flex items-center justify-center gap-2 font-semibold text-violet-800">
-                            {heading}
-                            {icon}
-                        </HeadlessDialog.Title>
-                    )}
-                    <div className="mt-6">{children}</div>
+                <HeadlessDialog.Panel className="relative max-h-full mx-auto flex flex-col w-full max-w-lg rounded bg-white px-5 pt-12 pb-5 text-slate-600">
                     <button
                         className="absolute top-2 right-2 p-2 rounded-full text-violet-800 hover:bg-violet-100 hover:text-violet-900"
                         onClick={() => onClose()}
@@ -29,6 +22,13 @@ export const Dialog: FC<DialogProps> = ({ icon, heading, children, isOpen = fals
                         <XIcon className="w-5 h-5" />
                         <span className="sr-only">Close {heading}</span>
                     </button>
+                    {heading && (
+                        <HeadlessDialog.Title className="flex items-center justify-center gap-2 font-semibold text-violet-800">
+                            {heading}
+                            {icon}
+                        </HeadlessDialog.Title>
+                    )}
+                    <div className="mt-6 overflow-y-auto">{children}</div>
                 </HeadlessDialog.Panel>
             </div>
         </HeadlessDialog>

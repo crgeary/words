@@ -14,95 +14,114 @@ exports[`it should match snapshot 1`] = `
         class="grid grid-cols-5 gap-1"
       >
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-        />
-      </div>
-      <div
-        class="grid grid-cols-5 gap-1"
-      >
-        <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
       </div>
       <div
         class="grid grid-cols-5 gap-1"
       >
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-        />
-      </div>
-      <div
-        class="grid grid-cols-5 gap-1"
-      >
-        <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
-        />
-        <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
       </div>
       <div
         class="grid grid-cols-5 gap-1"
       >
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
         <span
-          class="inline-flex items-center justify-center rounded w-full h-full p-2 bg-slate-300 text-gray-700"
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+      </div>
+      <div
+        class="grid grid-cols-5 gap-1"
+      >
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+      </div>
+      <div
+        class="grid grid-cols-5 gap-1"
+      >
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+      </div>
+      <div
+        class="grid grid-cols-5 gap-1"
+      >
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
+        />
+        <span
+          class="inline-flex items-center border justify-center rounded w-full h-full p-2 bg-white border-violet-200 text-slate-600"
         />
       </div>
     </div>
@@ -117,61 +136,61 @@ exports[`it should match snapshot 1`] = `
         class="flex justify-center -mx-0.5"
       >
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-q"
         >
           q
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-w"
         >
           w
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-e"
         >
           e
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-r"
         >
           r
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-t"
         >
           t
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-y"
         >
           y
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-u"
         >
           u
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-i"
         >
           i
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-o"
         >
           o
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-p"
         >
           p
@@ -184,55 +203,55 @@ exports[`it should match snapshot 1`] = `
           class="flex-grow-0.5 flex-shrink basis-0"
         />
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-a"
         >
           a
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-s"
         >
           s
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-d"
         >
           d
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-f"
         >
           f
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-g"
         >
           g
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-h"
         >
           h
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-j"
         >
           j
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-k"
         >
           k
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-l"
         >
           l
@@ -245,7 +264,7 @@ exports[`it should match snapshot 1`] = `
         class="flex justify-center -mx-0.5"
       >
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow-1.5 flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow-1.5 flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-enter"
         >
           <span
@@ -260,49 +279,49 @@ exports[`it should match snapshot 1`] = `
           </span>
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-z"
         >
           z
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-x"
         >
           x
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-c"
         >
           c
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-v"
         >
           v
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-b"
         >
           b
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-n"
         >
           n
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-m"
         >
           m
         </button>
         <button
-          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow-1.5 flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow-1.5 flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-delete"
         >
           <svg

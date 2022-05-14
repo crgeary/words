@@ -14,7 +14,7 @@ const WordlePage: NextPage = () => {
                 <title>Words (Wordle) | Christopher Geary</title>
             </Head>
             <Layout mode={Mode.Wordle}>
-                <Game solution={solution} />
+                <Game mode={Mode.Wordle} solution={solution} />
             </Layout>
         </>
     );

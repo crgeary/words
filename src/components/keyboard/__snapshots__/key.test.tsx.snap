@@ -2,7 +2,7 @@
 
 exports[`it should match snapshot 1`] = `
 <button
-  class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner bg-white border-violet-200 text-slate-600"
+  class="inline-flex justify-center items-center px-1 py-3 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner bg-white border-violet-200 text-slate-600"
 >
   A
 </button>
