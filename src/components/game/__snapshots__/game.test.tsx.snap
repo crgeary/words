@@ -117,104 +117,64 @@ exports[`it should match snapshot 1`] = `
         class="flex justify-center -mx-0.5"
       >
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-q"
         >
-          <span
-            class="uppercase"
-          >
-            q
-          </span>
+          q
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-w"
         >
-          <span
-            class="uppercase"
-          >
-            w
-          </span>
+          w
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-e"
         >
-          <span
-            class="uppercase"
-          >
-            e
-          </span>
+          e
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-r"
         >
-          <span
-            class="uppercase"
-          >
-            r
-          </span>
+          r
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-t"
         >
-          <span
-            class="uppercase"
-          >
-            t
-          </span>
+          t
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-y"
         >
-          <span
-            class="uppercase"
-          >
-            y
-          </span>
+          y
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-u"
         >
-          <span
-            class="uppercase"
-          >
-            u
-          </span>
+          u
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-i"
         >
-          <span
-            class="uppercase"
-          >
-            i
-          </span>
+          i
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-o"
         >
-          <span
-            class="uppercase"
-          >
-            o
-          </span>
+          o
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-p"
         >
-          <span
-            class="uppercase"
-          >
-            p
-          </span>
+          p
         </button>
       </div>
       <div
@@ -224,94 +184,58 @@ exports[`it should match snapshot 1`] = `
           class="flex-grow-0.5 flex-shrink basis-0"
         />
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-a"
         >
-          <span
-            class="uppercase"
-          >
-            a
-          </span>
+          a
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-s"
         >
-          <span
-            class="uppercase"
-          >
-            s
-          </span>
+          s
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-d"
         >
-          <span
-            class="uppercase"
-          >
-            d
-          </span>
+          d
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-f"
         >
-          <span
-            class="uppercase"
-          >
-            f
-          </span>
+          f
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-g"
         >
-          <span
-            class="uppercase"
-          >
-            g
-          </span>
+          g
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-h"
         >
-          <span
-            class="uppercase"
-          >
-            h
-          </span>
+          h
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-j"
         >
-          <span
-            class="uppercase"
-          >
-            j
-          </span>
+          j
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-k"
         >
-          <span
-            class="uppercase"
-          >
-            k
-          </span>
+          k
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-l"
         >
-          <span
-            class="uppercase"
-          >
-            l
-          </span>
+          l
         </button>
         <span
           class="flex-grow-0.5 flex-shrink basis-0"
@@ -321,117 +245,85 @@ exports[`it should match snapshot 1`] = `
         class="flex justify-center -mx-0.5"
       >
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow-1.5 flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow-1.5 flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-enter"
         >
           <span
-            class="uppercase"
+            class="text-xs"
           >
             Enter
-            <span
-              class="sr-only"
-            >
-              Enter
-            </span>
+          </span>
+          <span
+            class="sr-only"
+          >
+            Enter
           </span>
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-z"
         >
-          <span
-            class="uppercase"
-          >
-            z
-          </span>
+          z
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-x"
         >
-          <span
-            class="uppercase"
-          >
-            x
-          </span>
+          x
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-c"
         >
-          <span
-            class="uppercase"
-          >
-            c
-          </span>
+          c
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-v"
         >
-          <span
-            class="uppercase"
-          >
-            v
-          </span>
+          v
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-b"
         >
-          <span
-            class="uppercase"
-          >
-            b
-          </span>
+          b
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-n"
         >
-          <span
-            class="uppercase"
-          >
-            n
-          </span>
+          n
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-m"
         >
-          <span
-            class="uppercase"
-          >
-            m
-          </span>
+          m
         </button>
         <button
-          class="inline-flex justify-center items-center p-2 border shadow-sm rounded font-medium text-sm text-center active:shadow-inner flex-grow-1.5 flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
+          class="inline-flex justify-center items-center px-1 py-2 border shadow-sm rounded tracking-tight uppercase font-medium text-sm text-center active:shadow-inner flex-grow-1.5 flex-shrink basis-0 mx-0.5 bg-white border-violet-200 text-slate-600"
           data-testid="key-delete"
         >
-          <span
-            class="uppercase"
+          <svg
+            aria-hidden="true"
+            class="w-5 h-5"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
           >
-            <svg
-              aria-hidden="true"
-              class="w-5 h-5"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M12 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2M3 12l6.414 6.414a2 2 0 001.414.586H19a2 2 0 002-2V7a2 2 0 00-2-2h-8.172a2 2 0 00-1.414.586L3 12z"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              />
-            </svg>
-            <span
-              class="sr-only"
-            >
-              Delete
-            </span>
+            <path
+              d="M12 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2M3 12l6.414 6.414a2 2 0 001.414.586H19a2 2 0 002-2V7a2 2 0 00-2-2h-8.172a2 2 0 00-1.414.586L3 12z"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+          <span
+            class="sr-only"
+          >
+            Delete
           </span>
         </button>
       </div>
