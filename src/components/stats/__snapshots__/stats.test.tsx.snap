@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should match snapshot with no stats 1`] = `
+<div>
+  <div
+    class="border border-dashed rounded p-8 flex justify-center items-center"
+  >
+    <div
+      class="text-sm text-center"
+    >
+      <p
+        class="mb-2 font-semibold"
+      >
+        You haven't won any games!
+      </p>
+      <p
+        class="mb-8"
+      >
+        To see your stats, go back and complete a game.
+      </p>
+      <span
+        class="w-48 mx-auto"
+        data-name="svgr-mock"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`it should match snapshot with stats 1`] = `
+<div>
+  <p>
+    Todo...
+  </p>
+</div>
+`;

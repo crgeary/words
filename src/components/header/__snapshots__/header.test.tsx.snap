@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should match snapshot 1`] = `
+<header
+  class="h-14 px-3 flex items-center justify-between bg-white border-t-2 border-b border-t-violet-800 border-b-violet-200"
+  role="banner"
+>
+  <div
+    class="w-20"
+  >
+    <button
+      class="p-2 rounded-full text-violet-800 hover:bg-violet-100 hover:text-violet-900"
+    >
+      <svg
+        aria-hidden="true"
+        class="h-5 w-5"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M4 6h16M4 12h16M4 18h16"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </svg>
+      <span
+        class="sr-only"
+      >
+        Menu
+      </span>
+    </button>
+  </div>
+  <p
+    class="text-center"
+  >
+    <strong
+      class="block text-lg font-semibold text-slate-700 leading-none"
+    >
+      Words
+    </strong>
+    <span
+      class="block mt-1 text-xs text-slate-400 leading-none"
+    >
+      Mode: 
+      Random
+    </span>
+  </p>
+  <div
+    class="w-20 flex justify-end"
+  >
+    <button
+      class="p-2 rounded-full text-violet-800 hover:bg-violet-100 hover:text-violet-900"
+    >
+      <svg
+        aria-hidden="true"
+        class="h-5 w-5"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M8 13v-1m4 1v-3m4 3V8M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </svg>
+      <span
+        class="sr-only"
+      >
+        Stats
+      </span>
+    </button>
+    <button
+      class="p-2 rounded-full text-violet-800 hover:bg-violet-100 hover:text-violet-900"
+    >
+      <svg
+        aria-hidden="true"
+        class="h-5 w-5"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </svg>
+      <span
+        class="sr-only"
+      >
+        Settings
+      </span>
+    </button>
+  </div>
+</header>
+`;

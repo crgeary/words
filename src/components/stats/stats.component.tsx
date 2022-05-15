@@ -1,15 +1,15 @@
 import { FC } from "react";
+import { StatsEntry } from "../../types/stats";
 import NoDataImage from "./images/no-data.undraw.svg";
 
 export type StatsProps = {
-    // ...
+    items?: StatsEntry[];
 };
 
-export const Stats: FC<StatsProps> = () => {
-    const stats: [] = [];
+export const Stats: FC<StatsProps> = ({ items = [] }) => {
     return (
         <div>
-            {Array.isArray(stats) && stats.length === 0 ? (
+            {Array.isArray(items) && items.length === 0 ? (
                 <div className="border border-dashed rounded p-8 flex justify-center items-center">
                     <div className="text-sm text-center">
                         <p className="mb-2 font-semibold">You haven&apos;t won any games!</p>
