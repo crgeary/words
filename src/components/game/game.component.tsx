@@ -59,7 +59,7 @@ export const Game: FC<GameProps> = ({ solution, mode }) => {
 
     return (
         <div className="h-full flex flex-col py-4 touch-manipulation">
-            <div className="flex-grow mb-4">
+            <div className="flex-grow mb-4 w-full max-w-sm mx-auto">
                 <Board
                     rows={rowCount.value}
                     solution={solution}

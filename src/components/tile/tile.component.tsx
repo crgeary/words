@@ -19,7 +19,7 @@ export const Tile: FC<TileProps> = ({ children, state = CharState.Idle }) => {
                 },
             )}
         >
-            {children && <span className="uppercase font-semibold text-xl">{children}</span>}
+            {children && <span className="uppercase font-medium text-xl">{children}</span>}
         </span>
     );
 };
